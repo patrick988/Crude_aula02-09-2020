@@ -180,7 +180,7 @@ namespace Crude_aula02_09_2020
 
         private void lblid_Click(object sender, EventArgs e)
         {
-
+            //fdsfsdfsdfsdfsdfsdlkkç
         }
 
         private void lblTelefone_Click(object sender, EventArgs e)
