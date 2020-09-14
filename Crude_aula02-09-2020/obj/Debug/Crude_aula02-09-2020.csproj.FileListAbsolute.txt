@@ -1,0 +1,10 @@
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\bin\Debug\Crude_aula02-09-2020.exe.config
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\bin\Debug\Crude_aula02-09-2020.exe
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\bin\Debug\Crude_aula02-09-2020.pdb
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02-09-2020.csprojAssemblyReference.cache
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02_09_2020.Form1.resources
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02_09_2020.Properties.Resources.resources
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02-09-2020.csproj.GenerateResource.cache
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02-09-2020.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02-09-2020.exe
+C:\Users\Patrick\Documents\Crude 02-09-20230\Crude_aula02-09-2020\Crude_aula02-09-2020\obj\Debug\Crude_aula02-09-2020.pdb
